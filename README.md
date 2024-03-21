@@ -2,7 +2,7 @@
 
 2D Platformer Controller/Character movement for Unity.
 
-This repository is distributed under [MIT-LICENSE](https://github.com/hayattgd/2D-Platformer-Controller/blob/main/LICENSE).
+**This repository is distributed under [MIT-LICENSE](https://github.com/hayattgd/2D-Platformer-Controller/blob/main/LICENSE).**
 
 ## Setup
 
@@ -12,7 +12,7 @@ Just put CharacterMovement.cs to your character and Create a empty game object i
 
 ### Tags
 
-Add a tags that should be detected as ground. (Leaving this default is not recommended!)
+Add a tags that should be detected as ground. **(Leaving this default is not recommended!)**
 
 For example:
 Tilemap = "Ground" Character = "Player"
