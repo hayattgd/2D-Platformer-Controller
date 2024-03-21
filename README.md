@@ -1,4 +1,7 @@
 # 2D-Platformer-Controller
+
+2D Platformer Controller/Character movement for Unity.
+
 This repository is distributed under [MIT-LICENSE](https://github.com/hayattgd/2D-Platformer-Controller/blob/main/LICENSE).
 
 ## Setup
